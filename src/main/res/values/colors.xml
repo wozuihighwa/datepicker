@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="ToolBarColor">#272b2e</color>
+    <color name="WeekBarBgColor">#ededec</color>
+    <color name="WeekBarTextColor">#8b8b8b</color>
+    <color name="DayGreyColor">#8b8b8b</color>
+    <color name="colorSelected">#ff4181</color>
+    <color name="colorFull">#cdcdcd</color>
+    <color name="colorBusy">#252a2d</color>
+</resources>

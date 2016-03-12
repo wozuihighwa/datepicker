@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="NavigetorHeight">54dp</dimen>
+    <dimen name="NavigetorTextSize">18sp</dimen>
+    <dimen name="WeekNumberTextSize">15sp</dimen>
+    <dimen name="WeekBarMargin">12dp</dimen>
+</resources>

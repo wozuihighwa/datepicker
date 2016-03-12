@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DatePickerLayout">
+        <attr name="datepicker_background" format="color"/>
+        <attr name="month_select_bar_height" format="dimension"/>
+        <attr name="seleted_year_month_text_size" format="dimension"/>
+        <attr name="seleted_year_month_text_color" format="color"/>
+        <attr name="week_number_text_size" format="dimension"/>
+        <attr name="week_num_bar_height" format="dimension"/>
+        <attr name="margin_padding_left" format="dimension"/>
+        <attr name="margin_padding_right" format="dimension"/>
+    </declare-styleable>
+</resources>
